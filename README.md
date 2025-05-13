@@ -31,3 +31,23 @@ These apps demonstrate Shiny Core's capabilities for handling reactive values, d
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Running an App
+Navigate to the app directory and run:
+
+```bash
+shiny run --reload --launch-browser --port 0 "app.py"
+```
+## 📦 Dependencies
+- shiny
+- pandas
+- plotly (for CO₂ dashboard)
+- requests (optional, for loading external datasets)
+
+## 📈 Screenshots
+
+## 🤝 Acknowledgements
+- Python 2 Course in Johannes Kepler University
+- Our World in Data – CO₂ Emissions Dataset
+- Inspired by Shiny for R, now available in Python via Shiny for Python
