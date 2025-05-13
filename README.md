@@ -46,7 +46,9 @@ shiny run --reload --launch-browser --port 0 "app.py"
 - requests (optional, for loading external datasets)
 
 ## 📈 Screenshots
-
+![Data Cleaner Screenshot](images/Capture.PNG)
+![Data Cleaner Screenshot](images/Capture2.PNG)
+![Data Cleaner Screenshot](images/Capture3.PNG)
 ## 🤝 Acknowledgements
 - Python 2 Course in Johannes Kepler University
 - Our World in Data – CO₂ Emissions Dataset
